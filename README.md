@@ -1,9 +1,9 @@
- 😁
+## Bem-vindo(a) ao meu perfil ✨
 
  <div>
    <a href="https://github.com/nelyyamasaki">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelyyamasaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelyyamasaki&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelyyamasaki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelyyamasaki&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,10 +14,10 @@
  
 <br>
  
-### Redes Sociais
+### Redes Sociais 🔗
  
 <div> 
   <a href="https://instagram.com/nely_yamasaki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/users/nelyyamasaki" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:nely.yamasaki@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
